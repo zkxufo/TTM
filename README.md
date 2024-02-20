@@ -1,6 +1,6 @@
 # Knowledge Distillation Based on Transformed Teacher Matching
 
-This repo is for reproducing the CIFAR-100 experimental results in our paper [*Knowledge Distillation Based on Transformed Teacher Matching*](http://arxiv.org/) published at ICLR 2024.
+This repo is for reproducing the CIFAR-100 experimental results in our paper [*Knowledge Distillation Based on Transformed Teacher Matching*](https://arxiv.org/abs/2402.11148) published at ICLR 2024.
 
 ## Installation
 
@@ -116,7 +116,14 @@ Additionally, we also evaluate our distillation performance for transformer-base
 If you find this repo useful for your research, please consider citing the paper
 
 ```
-
+@misc{zheng2024knowledge,
+      title={Knowledge Distillation Based on Transformed Teacher Matching}, 
+      author={Kaixiang Zheng and En-Hui Yang},
+      year={2024},
+      eprint={2402.11148},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 For any questions, please contact Kaixiang Zheng (k56zheng@uwaterloo.ca).
 
