@@ -116,13 +116,11 @@ Additionally, we also evaluate our distillation performance for transformer-base
 If you find this repo useful for your research, please consider citing the paper
 
 ```
-@misc{zheng2024knowledge,
-      title={Knowledge Distillation Based on Transformed Teacher Matching}, 
-      author={Kaixiang Zheng and En-Hui Yang},
-      year={2024},
-      eprint={2402.11148},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{zheng2024knowledge,
+  title={Knowledge Distillation Based on Transformed Teacher Matching},
+  author={Zheng, Kaixiang and Yang, En-Hui},
+  journal={arXiv preprint arXiv:2402.11148},
+  year={2024}
 }
 ```
 For any questions, please contact Kaixiang Zheng (k56zheng@uwaterloo.ca).
