@@ -116,10 +116,12 @@ Additionally, we also evaluate our distillation performance for transformer-base
 If you find this repo useful for your research, please consider citing the paper
 
 ```
-@inproceedings{zhengknowledge,
+@inproceedings{zheng2024knowledge,
   title={Knowledge Distillation Based on Transformed Teacher Matching},
-  author={Zheng, Kaixiang and YANG, EN-HUI},
-  booktitle={The Twelfth International Conference on Learning Representations}
+  author={Zheng, Kaixiang and Yang, En-Hui},
+  booktitle={The Twelfth International Conference on Learning Representations (ICLR 2024)},
+  year={2024},
+  url = {https://openreview.net/pdf?id=MJ3K7uDGGl}
 }
 ```
 For any questions, please contact Kaixiang Zheng (k56zheng@uwaterloo.ca).
